@@ -14,6 +14,6 @@ y = clamp(y, 0, room_height - 25);
 
 if(!floorPlayer){
 
-vspeed += 0.02;
+	vspeed += 0.02;
 	
 }
