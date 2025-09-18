@@ -1,5 +1,4 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-hspeed -= 0.04;
-image_xscale = -1;
+instance_create_layer(room_width/2, room_height/2, "Instances", obj_fish);
