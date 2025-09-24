@@ -1,9 +1,5 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-counter = 0;
-
-alarm[0] = room_speed * 3;
-
-alarm[1] = 60;
-
+counter++;
+alarm[1] = room_speed;

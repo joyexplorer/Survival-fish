@@ -44,6 +44,7 @@
     {"id":{"name":"spr_backgound","path":"sprites/spr_backgound/spr_backgound.yy",},},
     {"id":{"name":"spr_blueFish","path":"sprites/spr_blueFish/spr_blueFish.yy",},},
     {"id":{"name":"spr_brownFish","path":"sprites/spr_brownFish/spr_brownFish.yy",},},
+    {"id":{"name":"spr_fontNumbers","path":"sprites/spr_fontNumbers/spr_fontNumbers.yy",},},
     {"id":{"name":"spr_grayFish","path":"sprites/spr_grayFish/spr_grayFish.yy",},},
     {"id":{"name":"spr_greenFish","path":"sprites/spr_greenFish/spr_greenFish.yy",},},
     {"id":{"name":"spr_pinkFish","path":"sprites/spr_pinkFish/spr_pinkFish.yy",},},
