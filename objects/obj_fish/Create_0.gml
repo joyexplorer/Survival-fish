@@ -9,3 +9,10 @@ hspeed = 2;
 randomNumber = irandom_range(1,6);
 
 scr_setFish(randomNumber);
+
+if(global.side > room_width/2){
+	
+	image_xscale = -1;
+	hspeed = -hspeed;
+	
+}
