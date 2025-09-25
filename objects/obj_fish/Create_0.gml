@@ -12,7 +12,12 @@ scr_setFish(randomNumber);
 
 if(global.side > room_width/2){
 	
+	side = "right";
 	image_xscale = -1;
 	hspeed = -hspeed;
+	
+} else {
+	
+	side = "left";
 	
 }
